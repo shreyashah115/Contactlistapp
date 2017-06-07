@@ -1,9 +1,7 @@
 ## Contactlistapp
 
-
-Install required packages:
-
-```Displays a list of contacts; allows to add, remove or update.
+```
+Displays a list of contacts; allows to add, remove or update.
 ```
 Download and install node if you don't already have it installed
 Install the required frameworks and packages using the npm command in your command prompt. Express, angularjs, Mongodb, etc.
