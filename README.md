@@ -9,4 +9,5 @@ Displays a list of contacts; allows to add, remove or update.
 * Start the Mongodb server, Initialize database.
 * Run the server.js file in your command prompt.
 * Open http://localhost:3000 on your browser
+
 *You're good to go.*
