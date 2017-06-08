@@ -16,7 +16,7 @@ your system.
 ```
   npm install
 ```
-*This should install all the required node modules you'll need to run the app.
+* This should install all the required node modules you'll need to run the app.
 
 2. You can either use the default location to create the database that'd be C:\data\db or you can locally create one in your current 
 directory by running the command...
